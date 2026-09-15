@@ -5,4 +5,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Aaqilmm/leetcode/tree/master/0007-reverse-integer) |
+## Database
+|  |
+| ------- |
+| [0196-delete-duplicate-emails](https://github.com/Aaqilmm/leetcode/tree/master/0196-delete-duplicate-emails) |
 <!---LeetCode Topics End-->
